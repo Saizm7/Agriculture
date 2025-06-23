@@ -1,11 +1,5 @@
-tensorflow
 streamlit
-pillow
+tensorflow
 numpy
-pandas
+pillow
 scikit-learn
-matplotlib
-flask
-plotly
-requests
-python-dotenv
